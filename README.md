@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hello, I'm George Shaiju... <br>🚀Full Stack developer <br>🧠AI Enthusiast <br>🌍 Based in Bangalore <br>📚 Pursuing BCA with Data Analytics<br>
 
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/george1198) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/george-shaiju-47b68b207) 
@@ -23,9 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joker1198&icon=4&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/george1198) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
