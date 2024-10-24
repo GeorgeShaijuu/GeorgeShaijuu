@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm George Shaiju... <br>🚀Full Stack developer <br>🧠AI Enthusiast <br>🌍 Based in Bangalore <br>📚 Pursuing BCA with Data Analytics<br>
+👋 Hello, I'm George Shaiju... <br>🚀Full Stack developer <br>🧠AI Enthusiast <br>🌍 Based in Bangalore <br>📚 Working with cazelabs pvt. ltd.<br>
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/george1198) 
